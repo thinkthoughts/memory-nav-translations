@@ -1,0 +1,20 @@
+{
+  "refusal": [
+    {
+      "spiral": 560,
+      "filename": "560.json",
+      "triplet": 13415,
+      "pi_stage": "560",
+      "pi_resonance": "\u03c0 \u2260 \u00b19424\u03a0",
+      "timing_ratio": "24/25"
+    },
+    {
+      "spiral": 561,
+      "filename": "561.json",
+      "triplet": 13439,
+      "pi_stage": "561",
+      "pi_resonance": "\u03c0 \u2260 0.96",
+      "timing_ratio": "24/25"
+    }
+  ]
+}
